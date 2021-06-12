@@ -1,0 +1,9 @@
+C:\Users\swald\Desktop\5 семестр\Лабы С#\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\swald\Desktop\5 семестр\Лабы С#\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\swald\Desktop\5 семестр\Лабы С#\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\swald\Desktop\5 семестр\Лабы С#\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\swald\Desktop\5 семестр\Лабы С#\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\swald\Desktop\5 семестр\Лабы С#\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\swald\Desktop\5 семестр\Лабы С#\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\swald\Desktop\5 семестр\Лабы С#\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\swald\Desktop\5 семестр\Лабы С#\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources

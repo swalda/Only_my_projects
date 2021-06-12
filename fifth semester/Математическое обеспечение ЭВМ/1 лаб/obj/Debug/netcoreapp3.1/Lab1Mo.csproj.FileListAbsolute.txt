@@ -1,0 +1,13 @@
+C:\Users\artur\source\repos\Lab1Mo\bin\Debug\netcoreapp3.1\Lab1Mo.exe
+C:\Users\artur\source\repos\Lab1Mo\bin\Debug\netcoreapp3.1\Lab1Mo.deps.json
+C:\Users\artur\source\repos\Lab1Mo\bin\Debug\netcoreapp3.1\Lab1Mo.runtimeconfig.json
+C:\Users\artur\source\repos\Lab1Mo\bin\Debug\netcoreapp3.1\Lab1Mo.runtimeconfig.dev.json
+C:\Users\artur\source\repos\Lab1Mo\bin\Debug\netcoreapp3.1\Lab1Mo.dll
+C:\Users\artur\source\repos\Lab1Mo\bin\Debug\netcoreapp3.1\Lab1Mo.pdb
+C:\Users\artur\source\repos\Lab1Mo\obj\Debug\netcoreapp3.1\Lab1Mo.csprojAssemblyReference.cache
+C:\Users\artur\source\repos\Lab1Mo\obj\Debug\netcoreapp3.1\Lab1Mo.AssemblyInfoInputs.cache
+C:\Users\artur\source\repos\Lab1Mo\obj\Debug\netcoreapp3.1\Lab1Mo.AssemblyInfo.cs
+C:\Users\artur\source\repos\Lab1Mo\obj\Debug\netcoreapp3.1\Lab1Mo.csproj.CoreCompileInputs.cache
+C:\Users\artur\source\repos\Lab1Mo\obj\Debug\netcoreapp3.1\Lab1Mo.dll
+C:\Users\artur\source\repos\Lab1Mo\obj\Debug\netcoreapp3.1\Lab1Mo.pdb
+C:\Users\artur\source\repos\Lab1Mo\obj\Debug\netcoreapp3.1\Lab1Mo.genruntimeconfig.cache
